@@ -1,0 +1,11 @@
+{
+  "surname": "Иванов",
+  "name": "Пётр",
+  "birth_date": "1990-05-15",
+  "phone": "+79123456789",
+  "email": "ivanov@example.com",
+  "reason": "не работает телефон",
+  "problem_datetime": "2026-11-07T10:30:00",
+  "id": "e8190f1e-3e84-4de9-b62f-0e561b5ecf8c",
+  "created_at": "2026-11-07T15:59:42.260383"
+}
